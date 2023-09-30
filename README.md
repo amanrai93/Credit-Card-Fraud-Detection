@@ -6,6 +6,8 @@
 - As per Nilson Report c. 2020, banking frauds would account for $30 billion worldwide. With the rise in digital payment channels, the number of fraudulent transactions is also increasing in new and different ways.
 - A Machine learning model will help these institutions reduce time-consuming manual reviews, costly chargebacks and fees as well as denials of legitimate transactions.
 
+![cc fraud detection](https://github.com/amanrai93/Credit-Card-Fraud-Detection/assets/123299829/88f8c756-f873-4947-a6cf-02f908e3bf60)
+
  
 **Understanding and defining fraud**
 Skimming is the most common one, which is a way of duplicating information that is located on the magnetic strip of the card. Apart from this, the other ways are as follows:
